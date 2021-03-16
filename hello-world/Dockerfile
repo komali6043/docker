@@ -1,1 +1,1 @@
-FROM Hello-World:latest
+FROM hello-world:latest
